@@ -1,0 +1,23 @@
+p{
+    color: green; 
+    font-size: 72px;
+    text-align: center;
+}
+div
+{
+    color: red;
+    font-size: 72px;
+    border-radius: 30px;
+    border-style: dashed;
+    border-width: 15px;
+    border-color: black;
+    /* background-color: lightblue; */
+}
+body
+{
+    background-color: pink;
+}
+img{
+    height: 40px;
+    width: 40px;
+}
