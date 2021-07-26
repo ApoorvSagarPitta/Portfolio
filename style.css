@@ -1,23 +1,22 @@
-p{
-    color: green; 
-    font-size: 72px;
-    text-align: center;
-}
-div
-{
-    color: red;
-    font-size: 72px;
-    border-radius: 30px;
-    border-style: dashed;
-    border-width: 15px;
-    border-color: black;
-    /* background-color: lightblue; */
-}
-body
-{
-    background-color: pink;
-}
 img{
-    height: 40px;
-    width: 40px;
+    float: left;
+    margin: 5px;
+    height: 14cm;
+    width: 18cm;
+}
+h1{
+    display: block;
+    background-color: yellow;
+    width: 18cm;
+}
+p{
+    
+    text-align: justify;
+    
+    
+    
+}
+h2{
+    text-align: justify;
+    
 }
